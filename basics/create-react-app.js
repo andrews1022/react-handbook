@@ -11,3 +11,10 @@
 // How to do Option 2:
 // Run the command: npm create-react-app .
 // This will create the app in the current directory
+
+// Addiitonal note:
+// If you are using TypeScript to build your React app, make sure to add this at the end:
+// --template typescript
+
+// You can also simply add just
+// --typescript
