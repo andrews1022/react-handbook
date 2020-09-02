@@ -9,7 +9,7 @@
 // This will create the directory that holds the project, and the complete file/folder structure too
 
 // How to do Option 2:
-// Run the command: npm create-react-app .
+// Run the command: npx create-react-app .
 // This will create the app in the current directory
 
 // Addiitonal note:
