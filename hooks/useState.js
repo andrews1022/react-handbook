@@ -4,7 +4,7 @@
 import React, { useState } from 'react';
 
 // Example:
-function Counter() {
+const Counter = () => {
   // useState ALWAYS returns an array with 2 values
   // So we can use destructuring and assign those values to variables (constants)
   // The first value is your state. In this case, it is 'count'
@@ -52,6 +52,6 @@ function Counter() {
       <button onClick={increment}>+</button>
     </div>
   );
-}
+};
 
 export default Counter;
